@@ -1,2 +1,19 @@
 # CPI_India_Case_Study
-Analyzed India’s Consumer Price Index (CPI) inflation data using Excel to identify key trends and derive actionable insights. Calculated category-wise contributions to the CPI basket, analyzed year-on-year and month-on-month inflation trends, and identified major contributors to food inflation. Evaluated the impact of COVID-19 on inflation across essential categories and investigated the relationship between imported crude oil price fluctuations and category-wise inflation using correlation analysis. Used Excel formulas, data cleaning, missing-value handling, and visualizations to present findings and support data-driven conclusions.
+Project Overview:
+An Excel-based data analysis case study exploring India's Consumer Price Index (CPI) inflation trends.
+
+Key Analyses:
+- Category-wise contribution to the CPI basket
+- Year-on-year inflation trends
+- Month-on-month food inflation analysis
+- Impact of COVID-19 on inflation
+- Relationship between imported crude oil prices and CPI category inflation
+
+Tools Used:
+- Microsoft Excel
+- Excel formulas and correlation analysis
+- Data cleaning and missing-value handling
+- Charts and data visualization
+
+Deliverable:
+- The Excel workbook contains the analysis worksheets, calculations, visualizations, and key findings.
